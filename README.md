@@ -12,7 +12,7 @@ This website can be accessed at: https://jnkather.github.com/HistoColor2D
 
 *For the Matlab source codes and raw data, please refer to DOI 10.5281/zenodo.35083 (https://dx.doi.org/10.5281/zenodo.35083).*
 
-This project will be published in PLOS ONE 2015. For a detailed description of the computational methods, please refer to the paper. Additional information is also available in the article supplements. The source code was tested in Matlab R2015a.
+This project will be published in PLOS ONE 2015. For a detailed description of the computational methods, please refer to the paper.
 
 ## Licenses
 
