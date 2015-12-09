@@ -1,4 +1,4 @@
-# new-colors-histology
+# Interactive website for "New colors for histology"
 
 ## Overview
 
